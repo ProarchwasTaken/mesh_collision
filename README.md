@@ -11,6 +11,7 @@ fix that.
 
 # Controls
 **WASD** - Movement
+
 **R** - Reset player Y position.
 
 The player's position also gets reset if they fall off the map.
